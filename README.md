@@ -5,7 +5,7 @@ Primeiramente, obrigado pelo seu interesse em trabalhar conosco.
 ## Avisos antes de começar
 
 - Crie um repositório no seu GitHub **sem citar nada relacionado a RevPay**.
-- Faça seus commits no seu repositório.
+- Faça seus commits no seu repositório. Se possivel utilize o padrao: https://github.com/iuricode/padroes-de-commits?tab=readme-ov-file
 - Envie o link do seu repositório para o email: caioquintas@revpay.com.br
 - Você poderá consultar o Google, Stackoverflow ou algum projeto particular na sua máquina.
 - Fique à vontade para perguntar qualquer dúvida aos recrutadores.
@@ -50,7 +50,6 @@ Apresente sua solução utilizando a biblioteca que você desejar, justificando 
 Atente-se a cumprir a maioria dos requisitos, pois você pode cumprir-los parcialmente e durante a avaliação vamos bater um papo a respeito do que faltou.
 
 ## O que será avaliado e valorizamos.
-- Documentação
 - Código limpo e organizado (nomenclatura, etc)
 - Conhecimento de padrões (Design patterns, Domain Driven Design, SOLID)
 - Ser consistente e saber argumentar suas escolhas
