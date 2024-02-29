@@ -6,7 +6,7 @@ Primeiramente, obrigado pelo seu interesse em trabalhar conosco.
 
 - Crie um repositório no seu GitHub **sem citar nada relacionado a RevPay**.
 - Faça seus commits no seu repositório.
-- Envie o link do seu repositório para o email: renan.almeida@revpay.com.br e carlos.eduardo@revpay.com.br
+- Envie o link do seu repositório para o email: caioquintas@revpay.com.br
 - Você poderá consultar o Google, Stackoverflow ou algum projeto particular na sua máquina.
 - Fique à vontade para perguntar qualquer dúvida aos recrutadores.
 
@@ -18,7 +18,7 @@ Primeiramente, obrigado pelo seu interesse em trabalhar conosco.
 
 ### Sobre o ambiente da aplicação:
 
-- Escolha o NodeJs ou qualquer biblioteca de NPM que se sinta **confortável** em trabalhar. Esse teste **não faz** nenhuma preferência, portanto decida por aquele com o qual estará mais seguro em apresentar e conversar com a gente na entrevista.
+- Escolha o NodeJs e qualquer biblioteca de NPM que se sinta **confortável** em trabalhar. Esse teste **não faz** nenhuma preferência, portanto decida por aquele com o qual estará mais seguro em apresentar e conversar com a gente na entrevista.
 
 - Ainda assim, se optar por alguma biblioteca, sabemos que essas facilidades aumentam a produtividade no dia-a-dia mas aqui queremos ver o **seu** código e a sua forma de resolver problemas, é interessante pra gente ver a sua capacidade de criar uma solução.
 
@@ -34,13 +34,13 @@ Requisitos:
 
 - Para ambos tipos de usuário, precisamos do Nome Completo, CPF, e-mail e Senha. CPF/CNPJ e e-mails devem ser únicos no sistema. Sendo assim, seu sistema deve permitir apenas um cadastro com o mesmo CPF ou endereço de e-mail.
 
-- Revendedores podem enviar dinheiro para lojistas. 
+- Revendedores podem enviar dinheiro para lojistas.
 
 - Lojistas **só recebem** transferências, não enviam dinheiro para ninguém.
 
 - Validar se o usuário tem saldo antes da transferência.
 
-- A operação de transferência deve ser uma transação (ou seja, revertida em qualquer caso de inconsistência) e o dinheiro deve voltar para a carteira do usuário que envia. 
+- A operação de transferência deve ser uma transação (ou seja, revertida em qualquer caso de inconsistência) e o dinheiro deve voltar para a carteira do usuário que envia.
 
 - Este serviço deve ser RESTFul.
 
@@ -52,13 +52,12 @@ Atente-se a cumprir a maioria dos requisitos, pois você pode cumprir-los parcia
 ## O que será avaliado e valorizamos.
 - Documentação
 - Código limpo e organizado (nomenclatura, etc)
-- Conhecimento de padrões (design patterns, SOLID)
+- Conhecimento de padrões (Design patterns, Domain Driven Design, SOLID)
 - Ser consistente e saber argumentar suas escolhas
 - Apresentar soluções que domina
 - Manutenibilidade do Código
 - Arquitetura (estruturar o pensamento antes de escrever)
 
-De acordo com os critérios acima, iremos avaliar seu teste para avançarmos para a entrevista técnica.
 Caso não tenha atingido aceitavelmente o que estamos propondo acima, não iremos prosseguir com o processo.
 
 ## O que NÃO será avaliado
@@ -66,5 +65,6 @@ Caso não tenha atingido aceitavelmente o que estamos propondo acima, não iremo
 - Frontend (só avaliaremos a API Restful)
 
 ## O que será um Diferencial
-- Documentação
-- Uso de JWT para autenticação
+- Manutenibilidade
+- Testes
+- Arquitetura
