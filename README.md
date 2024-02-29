@@ -13,7 +13,7 @@ Primeiramente, obrigado pelo seu interesse em trabalhar conosco.
 *Corpo do Email com o link do repositório do desafio*
 
 >Seu Nome
->
+>Seu LinkedIn 
 >Link do repositório
 
 ### Sobre o ambiente da aplicação:
